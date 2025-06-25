@@ -36,7 +36,7 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Compile Hub</h3>
+              <h3 className="text-2xl font-bold">Wanderlust</h3>
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
               I built Wanderlust, a travel and stay booking web application
@@ -58,7 +58,7 @@ const Projects = () => {
             <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://github.com/PurushottamKakde"
+                href="https://github.com/PurushottamKakde/Wanderlust-project"
                 target="_blank"
               >
                 <TbBrandGithub />

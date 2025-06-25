@@ -127,7 +127,10 @@ const Navbar = () => {
               </motion.li>
             </Link>
           </ul>
-          <a href="/assets/purushottam2.pdf" target="_blank">
+          <a
+            href="https://drive.google.com/file/d/1_g_JgQP_3VInleABT3zWRbHj2LFJI3BM/view?usp=sharing"
+            target="_blank"
+          >
             <motion.button
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
@@ -236,7 +239,10 @@ const Navbar = () => {
                     </motion.li>
                   </Link>
                 </ul>
-                <a href="/assets/Piyush_Borkar_Resume.pdf" target="_blank">
+                <a
+                  href="https://drive.google.com/file/d/1_g_JgQP_3VInleABT3zWRbHj2LFJI3BM/view?usp=sharing"
+                  target="_blank"
+                >
                   <motion.button
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
@@ -251,7 +257,7 @@ const Navbar = () => {
                     initial={{ y: 20, opacity: 0 }}
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 0.8, ease: "easeIn" }}
-                    href="https://github.com/PiyushB2003"
+                    href="https://github.com/PurushottamKakde"
                     target="_blank"
                   >
                     <span className="w-10 h-10 text-xl bg-bodyColor border-[1px] border-zinc-700 hover:border-textGreen text-zinc-200 rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:-translate-y-2 transition-all duration-300">
@@ -262,7 +268,7 @@ const Navbar = () => {
                     initial={{ y: 20, opacity: 0 }}
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 0.9, ease: "easeIn" }}
-                    href="https://www.linkedin.com/in/piyushborkar/"
+                    href="https://www.linkedin.com/in/purushottam-kakde?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/"
                     target="_blank"
                   >
                     <span className="w-10 h-10 text-xl bg-bodyColor border-[1px] border-zinc-700 hover:border-textGreen text-zinc-200 rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:-translate-y-2 transition-all duration-300">
@@ -273,7 +279,7 @@ const Navbar = () => {
                     initial={{ y: 20, opacity: 0 }}
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 1, ease: "easeIn" }}
-                    href="https://www.instagram.com/_piyush_borkar_"
+                    href="https://www.instagram.com/ramsagar.kakde.142/"
                     target="_blank"
                   >
                     <span className="w-10 h-10 text-xl bg-bodyColor border-[1px] border-zinc-700 hover:border-textGreen text-zinc-200 rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:-translate-y-2 transition-all duration-300">
@@ -284,7 +290,7 @@ const Navbar = () => {
                     initial={{ y: 20, opacity: 0 }}
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 0.95, ease: "easeIn" }}
-                    href="https://www.facebook.com/piyush.borkar.9847/"
+                    href="https://www.facebook.com/purushottam.kakde.142/"
                     target="_blank"
                   >
                     <span className="w-10 h-10 text-xl bg-bodyColor border-[1px] border-zinc-700 hover:border-textGreen text-zinc-200 rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:-translate-y-2 transition-all duration-300">
@@ -299,9 +305,9 @@ const Navbar = () => {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 1.2, ease: "easeIn" }}
                 className="text-sm w-72 tracking-widest text-textGreen text-center mt-4"
-                href="mailto:piyushborkar95@gmail.com"
+                href="mailto:kakdepurushottam683@gmail.com "
               >
-                <p>mailto@piyush.me</p>
+                <p>mailto@purushottam.me</p>
               </motion.a>
             </motion.div>
           </div>

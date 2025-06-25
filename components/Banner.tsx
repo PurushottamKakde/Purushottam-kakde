@@ -36,7 +36,7 @@ const Banner = () => {
         ecosystem, I am passionate about delivering seamless, dynamic user
         experiences.{" "}
       </motion.p>
-      <a href="https://github.com/PiyushB2003" target="_blank">
+      <a href="https://github.com/PurushottamKakde" target="_blank">
         <motion.button
           initial={{ y: 10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
