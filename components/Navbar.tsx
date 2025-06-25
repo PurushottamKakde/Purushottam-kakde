@@ -69,7 +69,7 @@ const Navbar = () => {
                 Home
               </motion.li>
             </Link>
-            
+
             <Link
               className="flex items-center gap-1 font-medium text-textDark hover:text-textGreen cursor-pointer duration-300 nav-link"
               href="#about"
@@ -127,7 +127,7 @@ const Navbar = () => {
               </motion.li>
             </Link>
           </ul>
-          <a href="/assets/Piyush_Borkar_Resume.pdf" target="_blank">
+          <a href="/assets/purushottam2.pdf" target="_blank">
             <motion.button
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
